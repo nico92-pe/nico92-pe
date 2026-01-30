@@ -27,6 +27,9 @@ I am a strategic product leader with 6+ years of experience in the Fintech indus
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico92-pe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico92-pe&layout=compact&theme=radical)
 
+![Nico's Stats](https://github-readme-stats.vercel.app/api?username=nico92-pe&show_icons=true&theme=radical)
+![Nico's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nico92-pe&theme=radical)
+
 ---
 
 ## 📫 Let's Connect!
