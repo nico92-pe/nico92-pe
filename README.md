@@ -19,6 +19,7 @@ I am a strategic product leader with 6+ years of experience in the Fintech indus
 - **[MERN Full-Stack App](LINK_A_TU_REPO):** Developed as part of the MIT xPRO certification, focusing on scalable web architecture.
 - **[Business Management System](LINK_A_TU_REPO):** A solution designed to optimize operational workflows, blending no-code speed with technical logic.
 - **[Data Structures & Algorithms](LINK_A_TU_REPO):** A collection of implementations and problem-solving challenges in Java.
+- **[Gaming](https://github.com/annejl21/MCITHackathon2026):** Web game developed for MCIT 2026 Hackathon.
 
 ---
 
@@ -31,6 +32,6 @@ I am a strategic product leader with 6+ years of experience in the Fintech indus
 ## 📫 Let's Connect!
 - 📍 **Location:** Philadelphia, PA
 - 💼 **LinkedIn:** [nicolas-oyague](https://www.linkedin.com/in/nicolas-oyague-9b428871/)
-- 🎯 **Interests:** Micro-SaaS, YouTube/TikTok Analytics, and Fintech innovation.
+- 🎯 **Interests:** Fintech, Web Development, Start-ups, Micro-SaaS, Gaming.
 
 ---
