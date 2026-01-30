@@ -19,7 +19,7 @@ I am a strategic product leader with 6+ years of experience in the Fintech indus
 - **[MERN Full-Stack App](LINK_A_TU_REPO):** Developed as part of the MIT xPRO certification, focusing on scalable web architecture.
 - **[Business Management System](LINK_A_TU_REPO):** A solution designed to optimize operational workflows, blending no-code speed with technical logic.
 - **[Data Structures & Algorithms](LINK_A_TU_REPO):** A collection of implementations and problem-solving challenges in Java.
-- **[Gaming](https://github.com/annejl21/MCITHackathon2026):** Web game developed for MCIT 2026 Hackathon.
+- **[Gaming](https://github.com/annejl21/MCITHackathon2026):** A pixel-art exploration game developed during the MCIT 2026 Hackathon at UPenn. A web-based game using React + Vite and Node.js, featuring interactive NPC dialogue and a custom-mapped digital UPenn campus.
 
 ---
 
