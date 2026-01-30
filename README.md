@@ -1,34 +1,36 @@
-# ¡Hola! Soy Nico 👋
+# Hi there! I'm Nico 👋
 
-### Product Manager @ Fintech turned Software Engineer 🚀
-Me encuentro en la intersección entre la visión de negocio y la ingeniería de software. Con más de 6 años de experiencia liderando productos financieros, actualmente estoy profundizando en las bases de la computación a través del programa **MCIT (Master of Computer and Information Technology)**.
+### Product Manager @ Fintech ➝ Software Engineer in Training 🚀
+
+I am a strategic product leader with 6+ years of experience in the Fintech industry, now transitioning into Software Engineering. Currently, I am pursuing my **Master of Computer and Information Technology (MCIT)** at the **University of Pennsylvania**, bridging the gap between business and robust technical implementation.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ My Tech Stack
 
-- **Lenguajes:** Python, Java, C, JavaScript.
+- **Languages:** Java, C++, JavaScript (ES6+).
 - **Web Development:** MERN Stack (MongoDB, Express, React, Node.js).
-- **Sistemas:** Arquitectura de computadores (LC-4 Assembly), Lógica Digital.
-- **Otras herramientas:** Herramientas No-code para MVPs, Gestión de Producto, Metodologías Ágiles.
+- **Product & Strategy:** Agile/Scrum, Product Roadmap, No-code MVPs, Fintech.
 
 ---
 
-## 📈 Proyectos Destacados
+## 📈 Featured Projects
 
-- **[Nombre de tu Proyecto MERN]:** Aplicación full-stack desarrollada durante la certificación de MIT xPRO.
-- **Business Management System:** Un sistema de gestión empresarial diseñado para optimizar procesos operativos.
-- **Análisis de Algoritmos:** Implementaciones eficientes de estructuras de datos y resolución de problemas complejos.
-
----
-
-## 📊 Estadísticas de GitHub
-![Tus stats de GitHub](https://github-readme-stats.vercel.app/api?username=nico92-pe&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nico92-pe&layout=compact&theme=radical)
+- **[MERN Full-Stack App](LINK_A_TU_REPO):** Developed as part of the MIT xPRO certification, focusing on scalable web architecture.
+- **[Business Management System](LINK_A_TU_REPO):** A solution designed to optimize operational workflows, blending no-code speed with technical logic.
+- **[Data Structures & Algorithms](LINK_A_TU_REPO):** A collection of implementations and problem-solving challenges in Java.
 
 ---
 
-## 📫 Conectemos
+## 📊 GitHub Stats
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico92-pe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico92-pe&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+- 📍 **Location:** Philadelphia, PA
 - 💼 **LinkedIn:** [nicolas-oyague](https://www.linkedin.com/in/nicolas-oyague-9b428871/)
-- 📍 **Ubicación:** Philadelphia, PA
-- 🎙️ **Intereses:** Fintech, Micro-SaaS y Analítica de Datos.
+- 🎯 **Interests:** Micro-SaaS, YouTube/TikTok Analytics, and Fintech innovation.
+
+---
